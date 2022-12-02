@@ -1,6 +1,6 @@
 # Dia Landing page
 Dia landing page implemented based on a template [Dia](https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia)?node-id=9138%3A35)  
-Best decision for a startup company or service with a one page view.
+Best solution for a startup company or service with a one page view.
 
 # Build with
 HTML  
